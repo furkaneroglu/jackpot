@@ -1,0 +1,10 @@
+D:\Projeler\repos\JackpotV1\JackpotV1\bin\Debug\JackpotV1.exe.config
+D:\Projeler\repos\JackpotV1\JackpotV1\bin\Debug\JackpotV1.exe
+D:\Projeler\repos\JackpotV1\JackpotV1\bin\Debug\JackpotV1.pdb
+D:\Projeler\repos\JackpotV1\JackpotV1\obj\Debug\JackpotV1.csprojAssemblyReference.cache
+D:\Projeler\repos\JackpotV1\JackpotV1\obj\Debug\JackpotV1.Form1.resources
+D:\Projeler\repos\JackpotV1\JackpotV1\obj\Debug\JackpotV1.Properties.Resources.resources
+D:\Projeler\repos\JackpotV1\JackpotV1\obj\Debug\JackpotV1.csproj.GenerateResource.cache
+D:\Projeler\repos\JackpotV1\JackpotV1\obj\Debug\JackpotV1.csproj.CoreCompileInputs.cache
+D:\Projeler\repos\JackpotV1\JackpotV1\obj\Debug\JackpotV1.exe
+D:\Projeler\repos\JackpotV1\JackpotV1\obj\Debug\JackpotV1.pdb
